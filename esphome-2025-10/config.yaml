@@ -30,9 +30,9 @@ backup_exclude:
 - '*/*/'
 init: false
 startup: services
-name: ESPHome 2025.9
-panel_title: ESPHome 2025.9
-version: 2025.9.3
-slug: esphome-legacy-2025.9
-description: ESPHome legacy add-on (version 2025.9.3)
+name: ESPHome 2025.10
+panel_title: ESPHome 2025.10
+version: 2025.10.2
+slug: esphome-legacy-2025.10
+description: ESPHome legacy add-on (version 2025.10.2)
 image: ghcr.io/esphome/esphome-hassio
